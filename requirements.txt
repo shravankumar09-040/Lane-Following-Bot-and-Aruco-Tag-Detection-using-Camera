@@ -1,0 +1,6 @@
+mediapipe
+opencv-contrib-python
+numpy
+pyserial
+flask
+requests

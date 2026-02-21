@@ -1,0 +1,17 @@
+# -------------------------
+# Virtual Environments
+# -------------------------
+venv/
+camera_env/
+env/
+ENV/
+
+# -------------------------
+# Python Cache Files
+# -------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc.*
+*.py,cover

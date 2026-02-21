@@ -5,7 +5,7 @@ The system combines embedded motor control with computer vision for intelligent 
 
 
 <p align="center">
-  <img src="images/bot.jpeg" width="500"/>
+  <img src="images/img3.jpeg" width="500"/>
 </p>
 
 ---
@@ -21,6 +21,11 @@ This project demonstrates a hybrid robotics architecture where:
   - ArUco tags for identification / decision making  
 
 The robot follows a predefined red path and reacts based on visual tag inputs.
+
+
+<p align="center">
+  <img src="images/img2.jpeg" width="500"/>
+</p>
 
 ---
 
@@ -46,6 +51,11 @@ The robot follows a predefined red path and reacts based on visual tag inputs.
 | L298D Driver     | Drives DC motors                  |
 | OpenCV           | Image processing                  |
 | ArUco Library    | Marker detection                  |
+
+
+<p align="center">
+  <img src="images/bot.jpeg" width="500"/>
+</p>
 
 ---
 
