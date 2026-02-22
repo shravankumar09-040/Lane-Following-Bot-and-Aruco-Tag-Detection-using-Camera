@@ -27,6 +27,7 @@ The robot follows a predefined red path and reacts based on visual tag inputs.
   <img src="images/img2.jpeg" width="500"/>
 </p>
 
+
 ---
 
 ## ⚙️ Hardware Used
@@ -74,6 +75,16 @@ The robot follows a predefined red path and reacts based on visual tag inputs.
 - ArUco Tag Detection  
 - Real-time Motor Control  
 - Raspberry Pi → Arduino Serial Communication  
+
+
+<p align="center">
+  <img src="images/red_detect.png" width="500"/>
+</p>
+
+<p align="center">
+  <img src="images/aruco.png" width="500"/>
+</p>
+
 
 ---
 
